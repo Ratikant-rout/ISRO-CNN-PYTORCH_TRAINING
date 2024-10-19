@@ -14,4 +14,7 @@ Technologies Used:
 Python 🐍
 PyTorch ⚡
 CNN (Convolutional Neural Network)
+
+![image](https://github.com/user-attachments/assets/945a4061-d1ae-4e63-9d6d-12fa8289704d)
+
 Geospatial Image Processing 🗺️
